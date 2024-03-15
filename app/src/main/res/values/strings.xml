@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice2S_5</string>
+    <string name="p1">Пункт 1</string>
+    <string name="p2">Пункт 2</string>
+    <string name="p3">Раскрывающийся пункт</string>
+    <string name="p3pod">Подменю</string>
+    <string name="p4">Пункт с чекбоксом</string>
+    <string name="p5">Пункт после пункта</string>
+    <string name="p6">Последний пункт</string>
+    <string name="ActButton">НАЖМИ НА МЕНЯ!1!!</string>
+    <string name="ActText">Работа с Popup MENU</string>
+    <string name="green">ЗЕЛЁНЫЙ</string>
+    <string name="yellow">ЖЁЛТЫЙ</string>
+    <string name="red">КРАСНЫЙ</string>
+</resources>
